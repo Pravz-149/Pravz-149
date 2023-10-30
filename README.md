@@ -1,17 +1,15 @@
 
 <h1 align="center"> 👋  Pravallika Molleti </h1>
-<h3 align="left">Data science and Machine-Learning practitioner</h3>
+<h3 align="left">Data science and Machine-Learning </h3>
 
 
-🚀 Upskilling in Machine Learning, Deep-Learning & AI
+🚀 I write code. Obsessed  with Automation, Machine Learning, Deep-Learning & AI
 
 🎯 Status: Open to work
 
 ## ⚡Completed 
 
-✌️Courses- Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-
-⚡Highlights-600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+✌️skills- Python, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics, Web scraping, Selenium automation
 
 
  ## ❄️ My Projects
