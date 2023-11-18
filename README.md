@@ -3,7 +3,7 @@
 <h3 align="left">Data science and Machine-Learning </h3>
 
 
-🚀 I write code. Obsessed  with Automation, Machine Learning, Deep-Learning & AI
+🚀I believe in simplifying tasks adding value effectively yet efficiently using Automation, Machine Learning, Deep-Learning & AI
 
 🎯 Status: Open to work
 
